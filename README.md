@@ -3,4 +3,4 @@ Prova prática para a 3°a Etapa do processo seletivo
 
 ### Arquivos no Repositório
 - Respostas.pdf: Respostas para as questões objetivas e discussiva
-- 
+- algoritmo/SubsetGenerator.java: Algoritmo de extração de subsets
